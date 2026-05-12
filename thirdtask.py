@@ -1,3 +1,4 @@
+print(">>> [LOG] 사용자가 페이지를 새로고침하거나 조작 중입니다.")
 import streamlit as st
 import pandas as pd
 import time
